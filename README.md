@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MU330-coder
+- 👋 Hi, I’m Martin Montas
 - 👀 I’m interested in machine learning, data science and game emulators.
 - 🌱 I’m currently learning bash
 - 📫 How to reach me martinmontas1@gmail.com
