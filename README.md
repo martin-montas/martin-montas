@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin Montas
-- 👀 I’m interested in machine learning, data science and game emulators.
-- 🌱 I’m currently learning bash
+- 👀 I’m interested in System Administration, c++ and game emulators.
+- 🌱 I’m currently learning bash and ansible
 - 📫 How to reach me martinmontas1@gmail.com
 
 <!---
