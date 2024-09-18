@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martin Montas
-- 👀 I’m interested in System Administration, c++ and game emulation.
+- 👀 I’m interested in system administration, c++ and game emulation.
 - 🌱 I’m currently learning Bash and Ansible.
 
 <!---
