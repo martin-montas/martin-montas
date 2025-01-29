@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin Montas
 - 👀 I’m interested in System Administration, C++ and game emulation.
-- 🌱 I’m currently learning Bash and Ansible.
+- 🌱 I’m currently learning Terraform and Ansible.
 
 <!---
 MU330-coder/MU330-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
